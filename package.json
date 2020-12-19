@@ -1,0 +1,14 @@
+{
+  "name": "@jingtao1995/cs-5891-final-project",
+  "main": "d07fd5068e69c4b6@2122.js",
+  "version": "2122.0.0",
+  "homepage": "https://observablehq.com/@jingtao1995/cs-5891-final-project",
+  "author": {
+    "name": "Jingtao",
+    "url": "https://observablehq.com/@jingtao1995"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
